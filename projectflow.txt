@@ -33,13 +33,6 @@
     - register_model.py
 
 
-
-
-
-
-
-
-    
 18. add file - dvc.yaml (till model evaluation.metrics)
 19. add file - params.yaml
 20. DVC pipeline is ready to run - dvc repro
